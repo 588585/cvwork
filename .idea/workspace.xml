@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbf756ea-103e-470c-82ae-92581c635565" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cv1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvgame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cvgame.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gym-maze/Maze.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/gym-maze/Maze.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gym-maze/data/random_block_maze.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/gym-maze/data/random_block_maze.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gym-maze/data/simple_empty_maze.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/gym-maze/data/simple_empty_maze.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gym-maze/gym_maze/envs/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/gym-maze/gym_maze/envs/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gym-maze/gym_maze/envs/maze.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/gym-maze/gym_maze/envs/maze.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gym-maze/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/gym-maze/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rlkit/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/rlkit/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2oPi5LWeRNaXMZ9HjP63ilMgHiO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cbf756ea-103e-470c-82ae-92581c635565" name="变更" comment="" />
+      <created>1730777430315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730777430315</updated>
+    </task>
+    <servers />
+  </component>
+</project>
